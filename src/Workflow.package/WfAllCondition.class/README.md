@@ -1,0 +1,1 @@
+I am a condition that is satisfied if ALL of my children are satisfied. It is a generalized AND relation.

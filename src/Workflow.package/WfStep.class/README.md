@@ -1,0 +1,1 @@
+I am an abstract step (activation) to be used as the nodes of a workflow definition. I have got references to the outgoing edges and the workflow I am used in.

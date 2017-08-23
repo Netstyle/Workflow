@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WfImporter",
+	"category" : "Workflow-Archiving",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WfRootFrameImporter",
+	"type" : "normal"
+}

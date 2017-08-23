@@ -1,0 +1,3 @@
+accessing
+workList
+	self subclassResponsibility

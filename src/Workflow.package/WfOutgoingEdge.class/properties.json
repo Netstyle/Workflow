@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WfStaticElement",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"from",
+		"to",
+		"condition"
+	],
+	"name" : "WfOutgoingEdge",
+	"type" : "normal"
+}

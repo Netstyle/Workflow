@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WfStep",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"text"
+	],
+	"name" : "WfNamedStep",
+	"type" : "normal"
+}

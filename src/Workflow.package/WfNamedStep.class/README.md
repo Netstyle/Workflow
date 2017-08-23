@@ -1,0 +1,1 @@
+I am the basic workflow step that is used in most cases having a name and an additonal field for comments.

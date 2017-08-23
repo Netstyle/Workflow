@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WfManagedObject",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"workflows"
+	],
+	"name" : "WfWorkflowHistory",
+	"type" : "normal"
+}

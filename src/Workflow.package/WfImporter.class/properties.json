@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Workflow-XPDL-Import",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"node",
+		"context"
+	],
+	"name" : "WfImporter",
+	"type" : "normal"
+}

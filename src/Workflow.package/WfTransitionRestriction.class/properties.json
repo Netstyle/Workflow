@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Workflow-XPDL-Export",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isXOR"
+	],
+	"name" : "WfTransitionRestriction",
+	"type" : "normal"
+}

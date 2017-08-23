@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WfSubflowStep",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"subflow",
+		"subflowHistory"
+	],
+	"name" : "WfStaticSubflowStep",
+	"type" : "normal"
+}

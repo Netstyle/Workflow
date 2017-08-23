@@ -1,0 +1,1 @@
+I am a condition that is always satisified.

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "lr 7/5/2005 09:27",
+	"super" : "Object",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WfManagedObject",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I am a looping frame, to be used when the edges of a workflow are looping.

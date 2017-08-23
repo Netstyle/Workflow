@@ -1,0 +1,1 @@
+I am the root frame of a running workflow, the main entity of the workflow execution engine. I reference a work-list with all the completed and running activations. I also contain some domain-data including properties such as the title of the running workflow, the timestamp when the workflow has been started, a priortity and the user that started the workflow.

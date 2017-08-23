@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "lr 7/5/2005 09:54",
+	"super" : "WfFrame",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parent"
+	],
+	"name" : "WfSubFrame",
+	"type" : "normal"
+}

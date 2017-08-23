@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WfManagedObject",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"step",
+		"frame",
+		"incomingTokens",
+		"properties"
+	],
+	"name" : "WfActivation",
+	"type" : "normal"
+}

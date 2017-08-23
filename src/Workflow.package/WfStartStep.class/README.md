@@ -1,0 +1,1 @@
+I am a special step to be used as a starting point of the workflow. Every workflow has got exactly one start-step.

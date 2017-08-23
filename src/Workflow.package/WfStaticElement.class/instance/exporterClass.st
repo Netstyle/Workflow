@@ -1,0 +1,3 @@
+exporting
+exporterClass
+	self subclassResponsibility 

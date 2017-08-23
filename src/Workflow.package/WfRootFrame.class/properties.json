@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WfFrame",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"workList",
+		"creator",
+		"id",
+		"title",
+		"priority",
+		"startTimestamp",
+		"trueCreator",
+		"type"
+	],
+	"name" : "WfRootFrame",
+	"type" : "normal"
+}

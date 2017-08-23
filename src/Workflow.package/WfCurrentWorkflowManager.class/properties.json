@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "lr 7/5/2005 09:26",
+	"super" : "WADynamicVariable",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WfCurrentWorkflowManager",
+	"type" : "normal"
+}

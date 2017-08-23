@@ -1,0 +1,3 @@
+*workflow
+asMutator 
+	^ (self, ':') asSymbol

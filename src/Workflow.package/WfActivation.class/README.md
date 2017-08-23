@@ -1,0 +1,1 @@
+I am an activation to be used in a running-workflow. The activation has got references to its step (activity) and its frame. What is more it consists of a dictionary of properties that are used to store domain-data. Most extension methods of this class should be pushed down into BLActivation.

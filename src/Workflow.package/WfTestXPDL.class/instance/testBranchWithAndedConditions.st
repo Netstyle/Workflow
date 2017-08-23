@@ -1,0 +1,3 @@
+testing
+testBranchWithAndedConditions
+	self assertRoundtripFor: self library branchWithAndedConditions.

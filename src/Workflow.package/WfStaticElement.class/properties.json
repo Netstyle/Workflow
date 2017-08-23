@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WfManagedObject",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WfStaticElement",
+	"type" : "normal"
+}

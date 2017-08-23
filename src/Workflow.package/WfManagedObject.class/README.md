@@ -1,0 +1,1 @@
+I provide common functionality for peristent objects within the workflow engine.

@@ -1,0 +1,1 @@
+I am a condition that is satisfied if ANY of my children are satisfied. It is a generalized OR relation.

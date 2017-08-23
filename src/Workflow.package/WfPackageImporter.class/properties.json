@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WfImporter",
+	"category" : "Workflow-XPDL-Import",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"package"
+	],
+	"name" : "WfPackageImporter",
+	"type" : "normal"
+}

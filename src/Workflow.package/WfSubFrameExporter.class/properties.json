@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WfFrameExporter",
+	"category" : "Workflow-Archiving",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WfSubFrameExporter",
+	"type" : "normal"
+}

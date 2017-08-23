@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "lr 7/5/2005 10:38",
+	"super" : "WfStaticElement",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"start",
+		"steps",
+		"history",
+		"loopCache",
+		"roles"
+	],
+	"name" : "WfWorkflow",
+	"type" : "normal"
+}

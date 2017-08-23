@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WfStaticElementExporter",
+	"category" : "Workflow-XPDL-Export",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WfStepExporter",
+	"type" : "normal"
+}

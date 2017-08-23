@@ -1,0 +1,1 @@
+I am an outgoing edge to be used in the workflow-definition. I have got references to the source and destination step, as well as a condition that defines if this edge can be used when running the workflow.

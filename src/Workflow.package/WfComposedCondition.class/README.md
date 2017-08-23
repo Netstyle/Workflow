@@ -1,0 +1,1 @@
+I am an abstract composed condition referencing other conditions.

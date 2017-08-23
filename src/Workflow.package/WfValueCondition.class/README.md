@@ -1,0 +1,1 @@
+I am a condition that is satisfied if the checked object has a property named key (#propertyAt:) that is equal (#=) to value.

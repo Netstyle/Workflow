@@ -1,0 +1,1 @@
+I am a frame to be used in a running-workflow. I have got a reference to the workflow I am based on and a dictionary mapping steps to an activation.

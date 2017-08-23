@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WfCondition",
+	"category" : "Workflow-Conditions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"conditions"
+	],
+	"name" : "WfComposedCondition",
+	"type" : "normal"
+}

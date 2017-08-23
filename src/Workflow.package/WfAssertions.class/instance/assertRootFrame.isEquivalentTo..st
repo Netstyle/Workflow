@@ -1,0 +1,2 @@
+running
+assertRootFrame: aRootFrame isEquivalentTo: otherRootFrame

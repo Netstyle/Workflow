@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "lr 7/5/2005 10:52",
+	"super" : "WfCondition",
+	"category" : "Workflow-Conditions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value",
+		"key"
+	],
+	"name" : "WfValueCondition",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+access-generated
+text
+	^ text

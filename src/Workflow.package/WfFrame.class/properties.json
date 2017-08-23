@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "lr 7/5/2005 09:47",
+	"super" : "WfManagedObject",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"workflow",
+		"activations"
+	],
+	"name" : "WfFrame",
+	"type" : "normal"
+}

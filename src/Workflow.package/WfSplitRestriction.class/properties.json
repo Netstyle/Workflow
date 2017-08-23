@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WfTransitionRestriction",
+	"category" : "Workflow-XPDL-Export",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"edges"
+	],
+	"name" : "WfSplitRestriction",
+	"type" : "normal"
+}

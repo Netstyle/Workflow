@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WfStaticElement",
+	"category" : "Workflow",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"outgoingEdges",
+		"workflow"
+	],
+	"name" : "WfStep",
+	"type" : "normal"
+}

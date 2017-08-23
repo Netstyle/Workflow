@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Workflow-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"frame",
+		"workflow"
+	],
+	"name" : "WfTestFlow",
+	"type" : "normal"
+}
