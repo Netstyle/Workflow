@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "BaselineOf",
-	"category" : "Workflow",
+	"category" : "BaselineOfWorkflow",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
