@@ -1,4 +1,4 @@
-as yet unclassified
+getter generation
 generateBasicAccessors
 	self basicManagedIvars do:
 		[:ea |

@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 name
-	^ name ifNil: [super name]
+	^ name ifNil: [self printString]

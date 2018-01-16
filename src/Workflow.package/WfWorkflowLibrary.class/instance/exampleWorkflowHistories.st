@@ -1,3 +1,3 @@
-as yet unclassified
+examples
 exampleWorkflowHistories
 	^ self exampleWorkflows collect: [:ea | ea history]

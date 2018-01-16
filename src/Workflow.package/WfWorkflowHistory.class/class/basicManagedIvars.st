@@ -1,3 +1,3 @@
-as yet unclassified
+getter generation
 basicManagedIvars 
 	^ super basicManagedIvars, #(name)

@@ -1,4 +1,4 @@
-as yet unclassified
+getter generation
 generateAll
 	"WfManagedObject generateAll"
 	self withAllSubclassesDo: 

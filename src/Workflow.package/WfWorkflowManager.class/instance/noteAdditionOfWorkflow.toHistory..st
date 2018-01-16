@@ -1,2 +1,2 @@
-as yet unclassified
+notification
 noteAdditionOfWorkflow: aWorkflow toHistory: aWorkflowHistory

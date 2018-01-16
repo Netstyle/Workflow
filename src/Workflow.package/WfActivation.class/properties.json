@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "<historical>",
+	"commentStamp" : "StephaneDucasse 1/16/2018 18:11",
 	"super" : "WfManagedObject",
 	"category" : "Workflow",
 	"classinstvars" : [ ],
