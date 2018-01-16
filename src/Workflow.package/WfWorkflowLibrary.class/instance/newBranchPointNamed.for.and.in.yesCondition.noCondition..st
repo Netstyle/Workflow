@@ -1,4 +1,4 @@
-as yet unclassified
+conditions
 newBranchPointNamed: aString for: yesStep and: noStep in: aWorkflow yesCondition: yesCondition noCondition: noCondition
 	| branchPoint |
 	branchPoint := self newStepNamed: aString in: aWorkflow.

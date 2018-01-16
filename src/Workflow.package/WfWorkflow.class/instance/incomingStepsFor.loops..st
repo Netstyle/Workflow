@@ -1,4 +1,4 @@
-as yet unclassified
+query
 incomingStepsFor: aStep loops: aBoolean
 	| set |
 	set := Set new.

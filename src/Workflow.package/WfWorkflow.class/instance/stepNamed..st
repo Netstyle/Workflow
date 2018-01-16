@@ -1,4 +1,4 @@
-as yet unclassified
+query
 stepNamed: aString
 	^ self allSteps
 		detect: [:ea | ea name = aString]

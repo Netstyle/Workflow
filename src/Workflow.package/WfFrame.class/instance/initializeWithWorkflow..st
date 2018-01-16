@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initializeWithWorkflow: aWorkflow
 	workflow := aWorkflow.
 	activations := Dictionary new.

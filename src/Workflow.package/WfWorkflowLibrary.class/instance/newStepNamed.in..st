@@ -1,3 +1,3 @@
-as yet unclassified
+conditions
 newStepNamed: aString in: aWorkflow
 	^ aWorkflow newStepNamed: aString

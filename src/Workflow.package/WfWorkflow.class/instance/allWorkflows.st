@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 allWorkflows
 	^ Array streamContents:
 		[:stream | self allWorkflowsOn: stream]

@@ -1,4 +1,4 @@
-as yet unclassified
+query
 allSteps
 	| ordered |
 	ordered := start withAllChildren.

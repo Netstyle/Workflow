@@ -1,4 +1,4 @@
-as yet unclassified
+execution
 executeInNewFrame
 	| frame |
 	frame := self newRootFrame.
