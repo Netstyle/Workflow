@@ -1,5 +1,6 @@
 SystemOrganization addCategory: #Workflow!
 SystemOrganization addCategory: 'Workflow-Archiving'!
+SystemOrganization addCategory: 'Workflow-Broken-Tests'!
 SystemOrganization addCategory: 'Workflow-Conditions'!
 SystemOrganization addCategory: 'Workflow-Tests'!
 SystemOrganization addCategory: 'Workflow-XPDL'!
