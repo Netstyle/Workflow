@@ -1,6 +1,6 @@
 {
-	"commentStamp" : "lr 7/5/2005 09:26",
-	"super" : "WADynamicVariable",
+	"commentStamp" : "StephaneDucasse 1/16/2018 17:13",
+	"super" : "Object",
 	"category" : "Workflow",
 	"classinstvars" : [ ],
 	"pools" : [ ],

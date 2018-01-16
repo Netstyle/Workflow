@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 attributes
 	^ Array streamContents: [:stream | self attributesOn: stream]

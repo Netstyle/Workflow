@@ -1,7 +1,7 @@
-as yet unclassified
+parsing
 parse
 	| tokenStream condition conditionClass |
-	tokenStream := ((text findTokens: '''') collect: [:ea | ea withBlanksTrimmed]) readStream.
+	tokenStream := ((text findTokens: '''') collect: [:ea | ea trimBoth]) readStream.
 	tokenStream atEnd ifFalse: [condition := self parseSimpleConditionFrom: tokenStream].
 	tokenStream atEnd ifFalse: 
 		[conditionClass := 

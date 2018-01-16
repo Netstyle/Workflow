@@ -1,3 +1,3 @@
-as yet unclassified
+adding
 addWorkflow: aWorkflow
 	^ workflows add: aWorkflow
