@@ -8,7 +8,9 @@ baseline: spec
 				versionString: #stable;
 				repository: 'http://mc.stfx.eu/Neo' ].
 
-		
+		spec 
+			package: 'Workflow' with: [ spec requires: { 'ZTimestamp'}].
+
 		spec
 			package: 'Workflow';
 			group: 'default' with: #('Workflow') ]
