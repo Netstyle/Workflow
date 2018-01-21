@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testIsConnectedToStart
 	| orphan1 orphan2 |
 	workflow := self library loopingJoin.
@@ -10,7 +10,7 @@ testIsConnectedToStart
 		[:ea |
 		self assert: (ea isConnectedToStart = ({orphan1. orphan2} includes: ea) not)].
 	
-	workflow graphViz.
+	"workflow graphViz."
 	
 	workflow allSteps do:
 		[:ea |
