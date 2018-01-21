@@ -5,7 +5,7 @@ followingActivationInFrame: aFrame
 		ifTrue:
 			[aFrame workList allActivations detect:
 				[:ea |
-				ea step = to
-					and: [ea isFrameEntryPoint]
-					and: [ea frame parent = aFrame]]
+				(ea step = to)
+					and: [ ea isFrameEntryPoint
+								and: [ea frame parent = aFrame]]]
 				ifNone: []]
