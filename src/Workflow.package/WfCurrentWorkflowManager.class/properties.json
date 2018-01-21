@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "StephaneDucasse 1/16/2018 17:13",
-	"super" : "Object",
+	"super" : "DynamicVariable",
 	"category" : "Workflow",
 	"classinstvars" : [ ],
 	"pools" : [ ],
