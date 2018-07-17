@@ -1,4 +1,4 @@
-as yet unclassified
+conditions
 andedBranchConditionWithValue: aBoolean
 	^ WfAllCondition new
 		add: (self branchConditionWithValue: aBoolean);

@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 nameFrom: anXMLNode
 	^ anXMLNode attributeAt: #Name

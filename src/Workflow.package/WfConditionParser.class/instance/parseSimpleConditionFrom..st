@@ -1,4 +1,4 @@
-as yet unclassified
+parsing
 parseSimpleConditionFrom: tokenStream
 	| property value |
 	property := tokenStream next.

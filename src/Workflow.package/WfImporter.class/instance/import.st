@@ -1,4 +1,4 @@
-as yet unclassified
+importing
 import
 	^ IDCurrentManager use: self idManager during:
 		[self importData].

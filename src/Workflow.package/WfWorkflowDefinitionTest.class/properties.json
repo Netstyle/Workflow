@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "StephaneDucasse 1/21/2018 15:30",
+	"commentStamp" : "",
 	"super" : "TestCase",
 	"category" : "Workflow-Tests",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "WfTestChanges",
+	"name" : "WfWorkflowDefinitionTest",
 	"type" : "normal"
 }

@@ -1,3 +1,6 @@
-as yet unclassified
+accessing
 workflowManager
-	^ WfCurrentWorkflowManager value ifNil: [WfWorkflowManager new]
+
+	"Was the code with the dynamic variable
+	^ WfCurrentWorkflowManager value ifNil: [WfWorkflowManager new]"
+	^ WfWorkflowManager new

@@ -1,4 +1,4 @@
-as yet unclassified
+getter generation
 generateGetterFor: aSymbol
 	(self includesSelector: aSymbol) ifFalse:
 		[self 

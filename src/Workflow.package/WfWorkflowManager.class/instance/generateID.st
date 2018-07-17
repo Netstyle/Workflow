@@ -1,3 +1,3 @@
-as yet unclassified
+id generation
 generateID
 	^ SmallInteger maxVal atRandom

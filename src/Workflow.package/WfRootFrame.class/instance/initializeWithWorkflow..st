@@ -2,5 +2,5 @@ initialization
 initializeWithWorkflow: aWorkflow
 	super initializeWithWorkflow: aWorkflow.
 	workList := WfWorkList new.
-	startTimestamp := TimeStamp current.
+	startTimestamp := ZTimestamp now.
 	id := self workflowManager generateID

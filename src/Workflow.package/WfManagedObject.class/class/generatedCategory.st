@@ -1,3 +1,3 @@
-as yet unclassified
+getter generation
 generatedCategory
 	^ 'accessing-generated'

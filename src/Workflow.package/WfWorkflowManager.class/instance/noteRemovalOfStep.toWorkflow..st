@@ -1,2 +1,2 @@
-as yet unclassified
+notification
 noteRemovalOfStep: aStep toWorkflow: aWorkflow

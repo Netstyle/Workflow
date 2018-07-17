@@ -1,3 +1,3 @@
-as yet unclassified
+class hook
 historyClass
 	^WfWorkflowHistory

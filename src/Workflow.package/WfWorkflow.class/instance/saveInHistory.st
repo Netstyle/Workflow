@@ -1,3 +1,3 @@
 history
 saveInHistory
-	history save: self.
+	history save: self

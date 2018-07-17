@@ -1,3 +1,3 @@
-as yet unclassified
+adding
 save: aWorkflow
-	self addWorkflow: aWorkflow.
+	self addWorkflow: aWorkflow

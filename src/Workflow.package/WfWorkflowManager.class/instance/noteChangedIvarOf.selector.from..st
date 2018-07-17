@@ -1,2 +1,2 @@
-as yet unclassified
+notification
 noteChangedIvarOf: anObject selector: aKey from: oldObject

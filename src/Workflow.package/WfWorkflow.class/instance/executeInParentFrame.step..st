@@ -1,4 +1,4 @@
-as yet unclassified
+execution
 executeInParentFrame: aFrame step: aStep
 	| frame |
 	frame := WfSubflowFrame workflow: self parent: aFrame step: aStep.

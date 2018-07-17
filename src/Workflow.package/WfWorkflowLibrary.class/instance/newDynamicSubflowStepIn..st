@@ -1,3 +1,3 @@
-as yet unclassified
+conditions
 newDynamicSubflowStepIn: aWorkflow
 	^ aWorkflow newDynamicSubflowStep 

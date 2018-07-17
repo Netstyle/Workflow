@@ -1,3 +1,3 @@
 accessing
 workflowHistory
-	^ self workflow history.
+	^ self workflow history

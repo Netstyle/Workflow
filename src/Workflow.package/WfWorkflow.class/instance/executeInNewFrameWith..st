@@ -1,4 +1,4 @@
-as yet unclassified
+execution - no senders
 executeInNewFrameWith: aRootFrameMemento
 	| frame |
 	frame := self newRootFrameWith: aRootFrameMemento.

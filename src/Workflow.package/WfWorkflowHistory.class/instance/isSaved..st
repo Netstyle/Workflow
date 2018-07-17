@@ -1,3 +1,3 @@
-as yet unclassified
+testing
 isSaved: aWorkflow
 	^ workflows includes: aWorkflow
